@@ -1,4 +1,4 @@
-from pyknow import AND, OR, NOT, Rule, KnowledgeEngine, W, MATCH
+from experta import AND, OR, NOT, Rule, KnowledgeEngine, W, MATCH
 
 from bipolar.services import ask, verifica_conjunto
 from bipolar.sintomas import Sintomas

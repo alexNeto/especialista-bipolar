@@ -1,4 +1,4 @@
-from pyknow import Fact
+from experta import Fact
 
 
 class Sintomas(Fact):

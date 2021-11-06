@@ -1,7 +1,7 @@
 import operator
 from functools import reduce
 
-from pyknow import AND, OR, NOT, Rule, Fact, KnowledgeEngine, W, MATCH
+from experta import AND, OR, NOT, Rule, Fact, KnowledgeEngine, W, MATCH
 
 
 def verifica_conjunto(lista_sintomas, quantidade):

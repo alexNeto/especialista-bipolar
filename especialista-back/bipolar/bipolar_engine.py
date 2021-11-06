@@ -1,6 +1,6 @@
 from bipolar.services import ask, verifica_conjunto
 from bipolar.sintomas import Sintomas
-from pyknow import AND, MATCH, NOT, OR, Fact, KnowledgeEngine, Rule, W
+from experta import AND, MATCH, NOT, OR, Fact, KnowledgeEngine, Rule, W
 
 
 class Bipolar(KnowledgeEngine):
